@@ -2,10 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Kaleidoscopic Flowers</title>
-    <link>https://markitu333.github.io/KaleidoscopicFlowers/categories/</link>
+    <link>http://localhost:1313/KaleidoscopicFlowers/categories/</link>
     <description>Recent content in Categories on Kaleidoscopic Flowers</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://markitu333.github.io/KaleidoscopicFlowers/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Aug 2024 20:42:59 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/KaleidoscopicFlowers/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Category1</title>
+      <link>http://localhost:1313/KaleidoscopicFlowers/categories/category1/</link>
+      <pubDate>Sun, 11 Aug 2024 20:42:59 -0600</pubDate>
+      <guid>http://localhost:1313/KaleidoscopicFlowers/categories/category1/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

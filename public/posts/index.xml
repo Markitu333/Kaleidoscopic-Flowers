@@ -2,11 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Kaleidoscopic Flowers</title>
-    <link>https://markitu333.github.io/KaleidoscopicFlowers/posts/</link>
+    <link>http://localhost:1313/KaleidoscopicFlowers/posts/</link>
     <description>Recent content in Posts on Kaleidoscopic Flowers</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://markitu333.github.io/KaleidoscopicFlowers/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Aug 2024 20:42:59 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/KaleidoscopicFlowers/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bezier Curves</title>
+      <link>http://localhost:1313/KaleidoscopicFlowers/posts/bezier-curves/</link>
+      <pubDate>Sun, 11 Aug 2024 20:42:59 -0600</pubDate>
+      <guid>http://localhost:1313/KaleidoscopicFlowers/posts/bezier-curves/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

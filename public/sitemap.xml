@@ -2,28 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/KaleidoscopicFlowers/posts/bezier-curves/</loc>
+    <loc>https://markitu333.github.io/KaleidoscopicFlowers/</loc>
     <lastmod>2024-08-11T20:42:59-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/KaleidoscopicFlowers/categories/</loc>
+    <loc>https://markitu333.github.io/KaleidoscopicFlowers/posts/</loc>
     <lastmod>2024-08-11T20:42:59-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/KaleidoscopicFlowers/categories/category1/</loc>
-    <lastmod>2024-08-11T20:42:59-06:00</lastmod>
+    <loc>https://markitu333.github.io/KaleidoscopicFlowers/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/KaleidoscopicFlowers/</loc>
-    <lastmod>2024-08-11T20:42:59-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/KaleidoscopicFlowers/posts/</loc>
-    <lastmod>2024-08-11T20:42:59-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/KaleidoscopicFlowers/tags/tag1/</loc>
-    <lastmod>2024-08-11T20:42:59-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/KaleidoscopicFlowers/tags/tag2/</loc>
-    <lastmod>2024-08-11T20:42:59-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/KaleidoscopicFlowers/tags/</loc>
-    <lastmod>2024-08-11T20:42:59-06:00</lastmod>
+    <loc>https://markitu333.github.io/KaleidoscopicFlowers/tags/</loc>
   </url>
 </urlset>
